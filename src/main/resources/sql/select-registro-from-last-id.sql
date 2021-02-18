@@ -1,0 +1,1 @@
+SELECT * FROM REGISTRO R WHERE R.ID > :#${header.lastId};
